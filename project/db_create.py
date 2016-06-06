@@ -1,5 +1,7 @@
 # project/db_create.py
 
+"""sets up and creates the database"""
+
 import sqlite3
 from _config import DATABASE_PATH
 

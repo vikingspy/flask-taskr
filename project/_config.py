@@ -1,5 +1,5 @@
 # configuration file
-
+"""holds our app’s settings and configuration global variables"""
 import os
 
 # grab folder where this script lives
